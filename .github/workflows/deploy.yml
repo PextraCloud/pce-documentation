@@ -1,0 +1,20 @@
+name: Deploy documentation site
+on:
+    push:
+        branches:
+            - master
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        permissions:
+…              uses: actions/configure-pages@v4
+
+            - name: Upload Pages artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                path: 'book'
+
+            - name: Deploy to Pages
+              id: documentation
+              uses: actions/deploy-pages@v4
