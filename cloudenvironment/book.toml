@@ -1,0 +1,18 @@
+[book]
+authors = ["Pextra Inc."]
+language = "en"
+multilingual = false
+src = "src"
+title = "Pextra CloudEnvironment® Documentation"
+description = "User documentation for the Pextra CloudEnvironment® private cloud management platform."
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+git-repository-url = "https://github.com/PextraCloud/documentation/tree/master/cloudenvironment"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/PextraCloud/documentation/edit/master/cloudenvironment/{path}"
+site-url = "/cloudenvironment/"
+
+
