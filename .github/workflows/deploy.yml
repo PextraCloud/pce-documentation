@@ -24,16 +24,17 @@ jobs:
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
 
-      - name: Build documentation
-        run: mdbook build
-
       - name: Configure Pages
         uses: actions/configure-pages@v4
+
+      - name: Build documentation
+        run: |
+          mdbook build cloudenvironment
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'book'
+          path: 'cloudenvironment/book'
 
       - name: Deploy to Pages
         id: documentation
