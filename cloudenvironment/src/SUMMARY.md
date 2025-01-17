@@ -20,12 +20,6 @@
 		- [Government and Defense](./overview/use-cases/government-defense.md)
 		- [Homelabs and Hobbyists](./overview/use-cases/homelabs-hobbyists.md)
 
-	- [Comparison with Other Platforms](./overview/comparison/index.md)
-		- [OpenStack](./overview/comparison/openstack.md)
-		- [VMware vSphere](./overview/comparison/vmware-vsphere.md)
-		- [Proxmox VE](./overview/comparison/proxmox-ve.md)
-		- [Microsoft Hyper-V](./overview/comparison/microsoft-hyper-v.md)
-
 	- [Editions and Licensing](./overview/editions-licensing/index.md)
 		#- [Open-Source Edition](./overview/editions-licensing/open-source-edition.md)
 		- [Enterprise Edition](./overview/editions-licensing/enterprise-edition.md)
