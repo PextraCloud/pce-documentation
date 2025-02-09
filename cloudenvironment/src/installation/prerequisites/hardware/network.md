@@ -19,6 +19,6 @@
 
 - **Dedicated Management Network:** Isolate **management traffic** from VM traffic.
 - **VLAN Segmentation:** Recommended for better security and traffic management.
-- **Bonding (LACP/802.3ad):** For increased throughput and redundancy.
+- **Bonding:** For increased throughput and redundancy.
 - **IPv6 Support:** Ensure compatibility if required in your network setup.
 - **Firewalls & Security:** Enable only necessary ports (e.g., **5007** for Pextra web access).

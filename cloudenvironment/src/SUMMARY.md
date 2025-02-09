@@ -18,13 +18,13 @@
     - [GPU Support](./overview/key-features/gpu-support.md)
 
   - [Use Cases](./overview/use-cases/index.md)
-
-    - [Enterprise Cloud Management](./overview/use-cases/enterprise-cloud-management.md)
-    - [Academic and Research Environments](./overview/use-cases/academic-research.md)
-    - [Service Providers and MSPs](./overview/use-cases/service-providers-msps.md)
-    - [Government and Defense](./overview/use-cases/government-defense.md)
+    - [Small and Medium Business](./overview/use-cases/smb.md)
+    - [Healthcare & Medical Sector](./overview/use-cases/medical.md)
+    - [Academic and Research](./overview/use-cases/academic-research.md)
+    - [Financial, Banking, and Trading Brokerage Firms](./overview/use-cases/financial.md)
+    - [Legal & Law Firms](./overview/use-cases/legalfirm.md)
+    - [Real Estate and Mortgage Brokerage Firms](./overview/use-cases/mortgage.md)
     - [Homelabs and Hobbyists](./overview/use-cases/homelabs-hobbyists.md)
-
   - [Editions and Licensing](./overview/editions-licensing/index.md)
     #- [Open-Source Edition](./overview/editions-licensing/open-source-edition.md)
 
@@ -56,9 +56,5 @@
     - [Upgrading](./installation/upgrading/upgrading.md)
     - [Post-Upgrade Verification](./installation/upgrading/post-upgrade-verification.md)
     - [Rollback Procedure](./installation/upgrading/rollback-procedure.md)
-
-- [Storage](./storage/index.md)
-
-- [Networking](./networking/index.md)
 
 ---
