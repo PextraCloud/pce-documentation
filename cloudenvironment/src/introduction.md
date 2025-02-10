@@ -4,11 +4,12 @@ Pextra CloudEnvironment&reg; is a modern private cloud management and virtualiza
 
 This guide provides rich user documentation on how to install, administer, and use Pextra CloudEnvironment&reg;. This guide assumes minimal prior knowledge, and is designed to be accessible to users of all skill levels, from beginners to experts.
 
-## Contributing
+<!-- ## Contributing
 
 Community contributions are welcome. You can find the source code on [GitHub](https://github.com/PextraCloud/documentation/tree/master/cloudenvironment). Issues and feature requests can be submitted through the [GitHub issue tracker](https://github.com/PextraCloud/documentation/issues).
 
 If you would like to contribute, please submit a [pull request](https://github.com/PextraCloud/documentation/pulls) with your changes. You can also click the pencil icon at the top right of any page to begin editing the content directly on GitHub.
+-->
 
 ## License
 
